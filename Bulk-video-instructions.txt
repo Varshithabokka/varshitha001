@@ -1,0 +1,27 @@
+1.Create code using ChatGPT for the given topic
+	a.first enter the given  keyword in chatGPT
+	b. please give me one sentence for each concept
+	c. lets create a simple graphviz code to show the above concepts in a nice colorful way
+	d. it looks colorless and boring. can you make the blocks more colorful ?
+	e. copy code from chatGPT
+	f. creating image from  https://kroki.io/
+		f.1.copy the code from the chatGPT and paste it in the box below "try" option
+		f.2.select the graphviz option under diagram
+		f.3.take a gyazo of the code and paste it in the channel
+		f.4.if approved, then generate svg image using below steps 
+        f.4.upload the kroki image to one drive 
+			f.4.1 go to https://niolesk.top/#https://kroki.io/plantuml/svg/eNplj0FvwjAMhe_5FVZP40CgaNMuUGkc[…]qqAMMw1h-ZlRI4aF3dX7hOwm5XzfIKDctlNcshPT1tFa8JPYAj-Zf5F065sqM=
+			f.4.2 paste your code on left and make sure image is visible on the right side
+			f.4.3 sroll down and you will see Image url -
+			f.4.4 click on it and svg image will open. Save it to laptop
+			f.4.5 upload the svg image to onedrive project folder		
+3.After SVG image is created open the screenshot ppt 
+    a.Take a blank slide
+    b.GO to insert and insert pictures from this device
+    c.After inserting the picture right click on the image and convert to shapes then the ppt is ready 
+4.Upload kroki image, svg image ,transcript,chatGPT conversation to one drive
+5.Record audio with own voice
+6.After the audio is created,  do noise cancellation
+7.Take time stamps and calculation
+8.Animation apply
+9.video export
