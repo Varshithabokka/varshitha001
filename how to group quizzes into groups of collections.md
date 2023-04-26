@@ -12,3 +12,4 @@ how to group quizzes into groups of collections
     -   ![](https://i.gyazo.com/91394c52e5aa43a12c14b6c77f49dadd.png)
 6.  The quiz will be saved to the selected folder.
 7. please check this video for reference 
+https://vimeo.com/manage/videos/821243829
