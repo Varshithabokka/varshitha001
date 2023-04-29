@@ -1,4 +1,4 @@
-How to group quizzes into groups of collections
+# How to group quizzes into groups of collections
  1.  Login to quizzes with the given credentials.
 2.  Create a folder for your collection and rename it.
     -   Go to "My Library" > "My Collection".
