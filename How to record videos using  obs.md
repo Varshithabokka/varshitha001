@@ -17,6 +17,7 @@
 ![](https://i.gyazo.com/7fe445e87551de2793d17655e68f2e64.png)
 
 12. the title of the video should be with course name and from which lesson to which lesson recorded 
+
 example:[new]_spring_boot_3,_spring_6_&_hibernate_for_beginners-lesson-01-to-lesson-25
 
 
