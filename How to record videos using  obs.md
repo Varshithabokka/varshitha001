@@ -6,6 +6,7 @@
 4.  Name your capture and click "OK".
 5.  Choose the display you want to record if you have multiple monitors.
 6.  Adjust the settings for the capture such as resolution, frame rate, and bitrate. The settings should be as follows:
+    -   Speed :2x 
     -   Resolution: 720p
     -   Frame rate: as per your requirement
     -   Bitrate: as per your requirement
