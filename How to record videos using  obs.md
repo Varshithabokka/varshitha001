@@ -18,6 +18,6 @@
 
 12. the title of the video should be with course name and from which lesson to which lesson recorded 
 
-example:[new]_spring_boot_3,_spring_6_&_hibernate_for_beginners-lesson-01-to-lesson-25
+13. example:[new]_spring_boot_3,_spring_6_&_hibernate_for_beginners-lesson-01-to-lesson-25
 
 
