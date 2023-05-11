@@ -12,13 +12,13 @@
     -   Bitrate: as per your requirement
 7.  Click the "Start Recording" button to begin recording your screen. Make sure to keep the full screen while you are recording a video.  
 8.  When you are finished recording, click the "Stop Recording" button.
-9.  Ensure that the autoplay feature is disabled for the video.
-10. please do the activity in the cloud server.
-11. after the video is recorded please upload the video into vimeo in the 00-shared-with-alwvqa<udemy recordings
+9.  Pnsure that the autoplay feature is disabled for the video.
+10. Please do the activity in the cloud server.
+11. After the video is recorded please upload the video into vimeo in the 00-shared-with-alwvqa<udemy recordings
 ![](https://i.gyazo.com/7fe445e87551de2793d17655e68f2e64.png)
 
-12. the title of the video should be with course name and from which lesson to which lesson recorded 
+12. The title of the video should be with course name and from which lesson to which lesson recorded 
 
-13. example:[new]_spring_boot_3,_spring_6_&_hibernate_for_beginners-lesson-01-to-lesson-25
-
-
+13. Example:[new]_spring_boot_3,_spring_6_&_hibernate_for_beginners-lesson-01-to-lesson-25
+14. Please watch the video for reference
+https://vimeo.com/manage/videos/825742934
